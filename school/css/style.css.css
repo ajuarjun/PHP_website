@@ -1,0 +1,145 @@
+nav{
+  background:#f53b57;
+  position:fixed;
+  right:0;
+  top:0;
+  border-bottom:solid;
+  border-color:#ff5e57;
+  width:100%;
+}
+#logo{
+	border-radius:50%;
+	width:70px;
+	margin-left:10px;
+	margin-right:20px;
+}
+#school{
+	margin-top:100px;
+	margin-left:-10px;
+	width:1350px;
+	border-bottom:solid;
+	border-bottom-color:black;
+}
+footer{
+	background:black;
+  width:100%;
+  height:159px;
+  font-family: "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif; 
+  font-style: normal;
+  font-variant: normal; 
+  font-weight: 700;
+  color:white;
+  text-align:center;
+}
+#about{
+	border:solid;
+	border-color:gray;
+	border-radius:5px;
+	padding:6px 10px 10px 10px;
+}
+#staff{
+	border:solid;
+	border-color:gray;
+	border-radius:5px;
+	padding:6px 10px 10px 10px;
+}
+#student{
+	border:solid;
+	border-color:gray;
+	border-radius:5px;
+	padding:6px 10px 10px 10px;
+}
+#admin{
+	border:solid;
+	border-color:gray;
+	border-radius:5px;
+	padding:6px 10px 10px 10px;
+}
+div{
+	margin-bottom:20px;
+}
+#main-wrapper{
+	width:500px;
+	margin:0 auto;
+	background:white;
+	padding:5px;
+	border-radius:10px;
+	border:2px solid #2c3e50;
+}
+.avatar{
+	width:150px;
+	text-align:center;
+}
+.myform{
+	width:450px;
+	margin:0 auto;
+}
+.inputvalues{
+	width:430px;
+	margin:0 auto;
+	padding:5px;
+}
+#login-btn{
+	margin-top:10px;
+	margin-bottom:20px;
+	background-color:#27ae60;
+	padding:5px;
+	color:white;
+	width:100%;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+}
+#register-btn{
+	margin-bottom:20px;
+	margin-top:10px;
+	background-color:#3498db;
+	padding:5px;
+	color:white;
+	width:100%;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+}
+#stulogo{
+	width:150px;
+}
+#tealogo{
+	width:150px;
+}
+#adlogo{
+	width:150px;
+	border:solid;
+	border-color:darkblue;
+	border-radius:50%;
+}
+#logout-btn{
+	margin-bottom:20px;
+	margin-top:10px;
+	margin-left:370px;
+	background-color:#c0392b;
+	padding:5px;
+	color:white;
+	width:25%;
+	text-align:center;
+	font-size:15px;
+	font-weight:bold;
+}
+#submit-btn{
+	margin-bottom:20px;
+	margin-top:10px;
+	background-color:green;
+	padding:5px;
+	color:white;
+	width:100%;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+}
+table{
+	border-collapse:collapse;
+	width:100%;
+	color:#588c7e;
+	font-size: 25px;
+	text-align:left;
+}
